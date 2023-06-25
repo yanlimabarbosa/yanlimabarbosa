@@ -3,7 +3,7 @@
 ## Welcome to my GitHub! 😁
 Hello, my name is Yan, I'm a student of analysis and systems development at Unipê University Center.
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,html,css,git,py" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,ts,js,css,html,py,git" />
 
 ## Status:
 <p align="center">
@@ -13,5 +13,14 @@ Hello, my name is Yan, I'm a student of analysis and systems development at Unip
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanlimabarbosa&theme=jolly" alt="Stats" width="420">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanlimabarbosa&theme=jolly&utcOffset=8" alt="Productive Time" width="420">
 </p>
+
+## Contact me:
+<div>
+  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 

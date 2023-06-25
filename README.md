@@ -12,11 +12,11 @@ Hello, my name is Yan, I'm a student of analysis and systems development at Unip
 
 ## Status:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanlimabarbosa&theme=jolly" alt="Profile Details" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Repository" width="50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Commit" width="50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanlimabarbosa&theme=jolly" alt="Stats" width="50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanlimabarbosa&theme=jolly&utcOffset=8" alt="Productive Time" width="50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanlimabarbosa&theme=jolly" alt="Profile Details" width="98.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Repository" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Commit" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanlimabarbosa&theme=jolly" alt="Stats" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanlimabarbosa&theme=jolly&utcOffset=8" alt="Productive Time" width="49%">
 </p>
 
 ## Contact me:

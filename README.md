@@ -1,6 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator&weight=500&size=38&duration=2800&pause=2500&color=F7F7F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yan%2C+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=yanlimabarbosa&color=blueviolet&for-the-badge" alt="Profile Views" />
+</div>
+
 ## Welcome to my GitHub! 😁
+
 Hello, my name is Yan, I'm a student of analysis and systems development at Unipê University Center.
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,ts,js,css,html,py,git" />

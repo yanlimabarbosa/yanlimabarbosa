@@ -11,13 +11,49 @@ Hello, my name is Yan, I'm a student of analysis and systems development at Unip
 <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,ts,js,css,html,py,git" />
 
 ## Status:
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanlimabarbosa&theme=jolly" alt="Profile Details" width="98.5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Repository" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Commit" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanlimabarbosa&theme=jolly" alt="Stats" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanlimabarbosa&theme=jolly&utcOffset=8" alt="Productive Time" width="49%">
-</p>
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .card {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  @media (min-width: 768px) {
+    .card {
+      width: 49%;
+      margin-right: 2%;
+    }
+    
+    .card:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+</style>
+
+<div class="container">
+  <div class="card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanlimabarbosa&theme=jolly" alt="Profile Details" width="100%">
+  </div>
+  <div class="card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Repository" width="100%">
+  </div>
+  <div class="card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanlimabarbosa&theme=jolly" alt="Top Languages by Commit" width="100%">
+  </div>
+  <div class="card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanlimabarbosa&theme=jolly" alt="Stats" width="100%">
+  </div>
+  <div class="card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanlimabarbosa&theme=jolly&utcOffset=8" alt="Productive Time" width="100%">
+  </div>
+</div>
+
 
 ## Contact me:
 <div>

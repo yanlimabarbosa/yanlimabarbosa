@@ -6,7 +6,7 @@
 
 ## Welcome to my GitHub! 😁
 
-Hello, my name is Yan, I'm a student of analysis and systems development at Unipê University Center.
+Hello, my name is Yan, I'm a student of Computer Science at Unipê University Center.
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,ts,js,css,html,py,git" />
 

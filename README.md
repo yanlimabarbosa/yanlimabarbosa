@@ -8,7 +8,7 @@
 
 Hello, my name is Yan, I'm a student of Computer Science at Unipê University Center.
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,ts,js,css,html,git" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,express,prisma,postgres,mongodb,nodejs,tailwind,styledcomponents,vitest,vite,githubactions,netlify,sentry,npm,yarn,git,github,html,css,js,ts" />
 
 ## Status:
 <p align="center">

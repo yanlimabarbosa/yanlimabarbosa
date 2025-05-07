@@ -27,4 +27,6 @@ Hello, my name is Yan, I'm a student of Computer Science at Unipê University Ce
   <a href="https://www.linkedin.com/in/yan-lima-barbosa-19852927a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
 

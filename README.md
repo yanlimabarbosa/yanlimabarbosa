@@ -29,6 +29,6 @@ Hello, my name is Yan, I'm a student of Computer Science at Unipê University Ce
 
 <br>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 
